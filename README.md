@@ -13,6 +13,7 @@ This is a program written in x86 Assembly language. It is used to encrypt and de
          - your password
 
 Let me show you an example:
+
 1.ENCRYPT G1tHubR3p0 => RESULT: 0x47B1F448776052337838
 2.DECRYPT 0x47B1F448776052337838 => RESULT: G1tHubR3p0 
 
